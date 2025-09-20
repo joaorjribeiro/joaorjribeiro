@@ -1,5 +1,9 @@
 **`Desenvolvedor Front-End`**
 
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ffde21&width=500&lines=Olá+Mundo!+%F0%9F%8C%8D;)
+
 <h4>Me chamo João Pedro, tenho 22 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse pela área de tecnologia e atuo como desenvolvedor front-end. Além dos estudos, gosto de compartilhar meus aprendizados e projetos, buscando sempre evoluir na programação e contribuir para a comunidade tech.
 
 <br>
@@ -116,3 +120,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4&hide=python,ruby,go,swift,kotlin,typescript,groovy,vue,vala,shell,batchfile,java)
+
+
