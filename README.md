@@ -2,9 +2,10 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ffde21&width=500&lines=Olá+Mundo!+%F0%9F%8C%8D;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffde21&width=500&lines=Olá,+me+chamo+João+Pedro!)
 
-<h4>Me chamo João Pedro, tenho 22 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse pela área de tecnologia e atuo como desenvolvedor front-end. Além dos estudos, gosto de compartilhar meus aprendizados e projetos, buscando sempre evoluir na programação e contribuir para a comunidade tech.
+
+<h3>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse pela área de tecnologia e atuo como desenvolvedor front-end. Além dos estudos, gosto de compartilhar meus aprendizados e projetos, buscando sempre evoluir na programação e contribuir para a comunidade tech.
 
 <br>
 
