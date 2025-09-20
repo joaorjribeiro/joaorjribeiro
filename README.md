@@ -1,16 +1,118 @@
-## Hi there 👋
+**`Desenvolvedor Front-End`**
 
-<!--
-**joaorjribeiro/joaorjribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Me chamo João Pedro, tenho 22 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse pela área de tecnologia e atuo como desenvolvedor front-end. Além dos estudos, gosto de compartilhar meus aprendizados e projetos, buscando sempre evoluir na programação e contribuir para a comunidade tech.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-lemos-ribeiro-49b942228/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaorjribeiro)
+
+---
+
+
+### • Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VITE" 
+    title="VITE"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/354521/vitejs.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NODEJS" 
+    title="NODEJS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/373848/mysql.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/448266/aws.svg" 
+/>
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorjribeiro&show_icons=true&theme=dark&include_all_comits=true&locale=pt-br)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4&hide=python,ruby,go,swift,kotlin,typescript,groovy,vue,vala,shell,batchfile,java)
