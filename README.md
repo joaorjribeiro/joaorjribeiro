@@ -1,6 +1,6 @@
 **`Desenvolvedor Front-End`**
 
-<h3>Me chamo João Pedro, tenho 22 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse pela área de tecnologia e atuo como desenvolvedor front-end. Além dos estudos, gosto de compartilhar meus aprendizados e projetos, buscando sempre evoluir na programação e contribuir para a comunidade tech.
+<h4>Me chamo João Pedro, tenho 22 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse pela área de tecnologia e atuo como desenvolvedor front-end. Além dos estudos, gosto de compartilhar meus aprendizados e projetos, buscando sempre evoluir na programação e contribuir para a comunidade tech.
 
 <br>
 
