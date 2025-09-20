@@ -115,5 +115,8 @@
 <br>
 <br>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorjribeiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4&hide=python,ruby,go,swift,kotlin,typescript,groovy,vue,vala,shell,batchfile,java) |
-|---|---|
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaorjribeiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4&hide=python,ruby,go,swift,kotlin,typescript,groovy,vue,vala,shell,batchfile,java" alt="Top Langs" width="40%"/>
+</p>
+
