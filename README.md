@@ -63,51 +63,11 @@
 />
 <img 
     align="left" 
-    alt="VITE" 
-    title="VITE"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/354521/vitejs.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NODEJS" 
-    title="NODEJS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" 
-/>
-<img 
-    align="left" 
-    alt="MYSQL" 
-    title="MYSQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/373848/mysql.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/448266/aws.svg" 
 />
 
 <br>
