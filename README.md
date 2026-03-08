@@ -29,14 +29,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<img 
-height="170em"
-src="https://github-readme-stats.vercel.app/api?username=joaorjribeiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-/>
-
 <img
 height="170em"
 src="https://streak-stats.demolab.com?user=joaorjribeiro&theme=dark&locale=pt-br"
 />
-
-</p>
