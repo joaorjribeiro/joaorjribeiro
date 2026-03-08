@@ -45,15 +45,11 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande 
 
 ---
 
-<p>
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=joaorjribeiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-/>
+<p align="center">
 
 <img 
 height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorjribeiro&theme=dark&layout=compact&custom_title=Tecnologias"
+src="https://github-readme-stats.vercel.app/api?username=joaorjribeiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
 />
 
 </p>
