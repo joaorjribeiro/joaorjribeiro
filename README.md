@@ -10,14 +10,11 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande 
 
 <br>
 
----
 
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-lemos-ribeiro-49b942228/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/joaorjribeiro)
-
----
 
 ## 🧠 Stack utilizadas
 
@@ -31,9 +28,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-<p align="center">
 
 <img 
 height="170em"
